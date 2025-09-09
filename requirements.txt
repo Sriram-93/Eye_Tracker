@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+pyautogui
+//https://github.com/Fatcatcreate/Eye2cursor/blob/main/eyecursorfinal.py
